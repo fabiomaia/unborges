@@ -1,0 +1,5 @@
+#! /bin/bash
+
+sed -i 's/GenericIO.writelnString/System.out.println/g' $1
+sed -i '/import genclass.GenericIO;/d' $1
+
