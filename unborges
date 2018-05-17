@@ -1,4 +1,5 @@
 #! /bin/bash
 
-sed -i 's/GenericIO.writelnString/System.out.println/g' $1
 sed -i '/import genclass.GenericIO;/d' $1
+sed -i 's/GenericIO.writeString/System.out.print/g' $1
+sed -i 's/GenericIO.writelnString/System.out.println/g' $1
