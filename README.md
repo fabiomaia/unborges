@@ -6,4 +6,4 @@ Parody script, made in 5 minutes at the library in a moment of procrastination, 
 $ unborges Example.java
 ```
 
-More usefully, this shall serve as my personal reference to basic `sed` usage which I still have not committed to memory.
+More usefully, this shall serve as my personal reference to basic `sed` usage which I shamefully still have not committed to memory.
