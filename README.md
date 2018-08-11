@@ -1,6 +1,6 @@
 # unborges
 
-Parody script, made as a private joke in 5 minutes at the library in a moment of procrastination, which fixes Java source code produced by professor António Borges whose IO library nobody cares about.
+Parody script, made in 5 minutes at the library in a moment of procrastination, which fixes Java source code produced by professor António Borges whose IO library nobody cares about.
 
 ```
 $ unborges Example.java
